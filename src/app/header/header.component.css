@@ -1,0 +1,12 @@
+.lists{
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+.lists li{
+	justify-content: space-between;
+	list-style: none;
+}
+.navbar{
+	background-color: grey;
+}

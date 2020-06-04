@@ -1,0 +1,9 @@
+a:hover{
+    color: yellow;
+}
+a{
+    color: black;
+}
+a:active {
+    background-color: red;
+  }
